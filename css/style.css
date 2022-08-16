@@ -1,0 +1,12 @@
+.bg {
+    background-color: #E9ECEF;
+}
+
+.card {
+    min-height: 410px;
+    margin-bottom: 2rem;
+}
+
+.card img {
+    height: 300px;
+}
